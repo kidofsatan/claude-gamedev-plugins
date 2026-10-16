@@ -1,0 +1,20 @@
+{
+  "maxAgeDays": 30,
+  "pages": [
+    {
+      "id": "requirements",
+      "url": "https://yandex.ru/dev/games/doc/ru/concepts/requirements",
+      "affects": ["requirements.md", "tech-checklist.md", "genres.md"]
+    },
+    {
+      "id": "draft",
+      "url": "https://yandex.ru/dev/games/doc/ru/console/add-new-game/draft",
+      "affects": ["requirements.md", "agents/yandex-console.md", "agents/yandex-listing.md"]
+    },
+    {
+      "id": "add-new-game",
+      "url": "https://yandex.ru/dev/games/doc/ru/console/add-new-game",
+      "affects": ["requirements.md", "agents/yandex-console.md"]
+    }
+  ]
+}

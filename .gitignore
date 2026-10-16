@@ -1,0 +1,3 @@
+__pycache__/
+# снимки страниц документации Яндекса — создаются локально командой ygtool reqs-check
+plugins/yandex-games/knowledge/snapshots/

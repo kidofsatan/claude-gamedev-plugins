@@ -1,0 +1,14 @@
+{
+  "name": "gamedev-tools",
+  "owner": {
+    "name": "gamedev-tools"
+  },
+  "plugins": [
+    {
+      "name": "yandex-games",
+      "source": "./plugins/yandex-games",
+      "description": "Подготовка и публикация Unity WebGL-игр в Яндекс Играх: тех. проверка, тексты на всех языках, скриншоты, иконка, обложка, видео, заполнение консоли."
+    }
+  ],
+  "description": "Плагины Claude Code для разработки и публикации игр"
+}

@@ -1,0 +1,21 @@
+{
+  "name": "YandexStoreTools.Editor",
+  "rootNamespace": "YandexGames",
+  "references": [
+    "Unity.Recorder",
+    "Unity.Recorder.Editor",
+    "Unity.Recorder.Base",
+    "Unity.InputSystem"
+  ],
+  "includePlatforms": ["Editor"],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "overrideReferences": false,
+  "precompiledReferences": [],
+  "autoReferenced": false,
+  "defineConstraints": [],
+  "versionDefines": [
+    { "name": "com.unity.recorder", "expression": "4.0.0", "define": "YG_RECORDER" }
+  ],
+  "noEngineReferences": false
+}
